@@ -1,4 +1,4 @@
-Copyright (C) 2020 by Aditya R, Institute of Technology.
+Copyright (C) 2020 by Aditya R, Institute of Technology, Nirma University.
 
 It is a project that uses C++ programming and mainly "graphics.h" library. The functions of the library along with the programming logic create the game
 
